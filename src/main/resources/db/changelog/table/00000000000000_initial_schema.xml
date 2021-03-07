@@ -10,7 +10,7 @@
     <property name="now" value="GETDATE()" dbms="mssql"/>
 
 
-    <changeSet id="00000000000000" author="Himadri Mandal" dbms="h2">
+    <changeSet id="00000000000000" author="Himadri Mandal" dbms="h2, mysql">
         <createSequence sequenceName="hibernate_sequence" startValue="1" incrementBy="1"/>
     </changeSet>
 
