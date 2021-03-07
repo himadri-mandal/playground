@@ -1,4 +1,4 @@
-package com.next4j.pollsapp.security;
+package com.next4j.pollsapp.config.security;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.next4j.pollsapp.model.User;

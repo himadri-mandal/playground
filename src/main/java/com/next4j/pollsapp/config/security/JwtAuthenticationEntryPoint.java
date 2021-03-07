@@ -1,4 +1,4 @@
-package com.next4j.pollsapp.security;
+package com.next4j.pollsapp.config.security;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.security.core.AuthenticationException;

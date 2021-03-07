@@ -1,8 +1,8 @@
 package com.next4j.pollsapp.config;
 
-import com.next4j.pollsapp.security.CustomUserDetailsService;
-import com.next4j.pollsapp.security.JwtAuthenticationEntryPoint;
-import com.next4j.pollsapp.security.JwtAuthenticationFilter;
+import com.next4j.pollsapp.config.security.CustomUserDetailsService;
+import com.next4j.pollsapp.config.security.JwtAuthenticationEntryPoint;
+import com.next4j.pollsapp.config.security.JwtAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

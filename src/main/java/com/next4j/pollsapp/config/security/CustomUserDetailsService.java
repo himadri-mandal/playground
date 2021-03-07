@@ -1,6 +1,5 @@
-package com.next4j.pollsapp.security;
+package com.next4j.pollsapp.config.security;
 
-import com.next4j.pollsapp.exception.BadRequestException;
 import com.next4j.pollsapp.exception.ResourceNotFoundException;
 import com.next4j.pollsapp.model.User;
 import com.next4j.pollsapp.repository.UserRepository;
